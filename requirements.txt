@@ -1,0 +1,6 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1625395912402/work
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1633432780726/work
+djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1616757768152/work
+pytz==2020.1
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
